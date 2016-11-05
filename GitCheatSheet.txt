@@ -1,0 +1,25 @@
+Git instructions:
+
+Create project directory in terminal
+
+git init
+
+git remote add origin https://github.com/jcamier/mke_scikit.git
+
+git pull origin master
+
+git branch mypres
+
+git checkout mypres
+
+//// Make changes to your files /////
+
+git add <filename>
+
+git status // to see your changes
+
+git commit -m “notes you want to add”
+
+git push -u origin mypres
+
+git clone https://github.com/jcamier/mke_scikit.git
