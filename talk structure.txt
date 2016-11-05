@@ -1,0 +1,19 @@
+Talk skeleton
+	bio
+	what is ML 
+		starting layer of AI Space
+
+	philosophy on AI
+		
+	macros
+		our view of what the space looks like today
+		companies in the space and the work they are doing
+		investors - venture community
+		interesting references for further research
+
+	micro
+		refer diagram on ML, talk about the premise of 4 areas
+		use cases 
+		math if needed	
+		3 demos
+		libraries in python
