@@ -10,6 +10,8 @@ Contact us at:
 
 srshanbhag@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/srshanbhag
+
 jcamier@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/jacques-camier-cpa-lssbb-59a0a2b
