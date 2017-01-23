@@ -12,7 +12,7 @@ srshanbhag@gmail.com
 
 jcamier@gmail.com
 
-https://www.linkedin.com/in/jacques-camier-cpa-lssbb-59a0a2b
+LinkedIn: https://www.linkedin.com/in/jacques-camier-cpa-lssbb-59a0a2b
 
 join us at http://www.meetup.com/MKE-Python-Meetup/
 
