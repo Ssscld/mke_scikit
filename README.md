@@ -3,7 +3,7 @@ Scikit-learn talk by Sachin Shanbhag and Jack Camier - Jan 26th, 2017
 An Introductory Talk Concerning Python's Machine Learning Library
 http://scikit-learn.org/stable/
 
-A very special thank you goes to Jose Portilla, our awesome ML teacher on Udemy!
+A very special thank you goes to Jose Portilla; our awesome ML teacher on Udemy!
 
 https://www.linkedin.com/in/jmportilla
 
